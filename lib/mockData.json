@@ -1,0 +1,31 @@
+{
+  "states": {
+    "MH": {
+      "stateCode": "MH",
+      "name": "Maharashtra",
+      "registrationDeadline": "2026-03-31T23:59:59Z",
+      "earlyVotingStart": "2026-04-10T08:00:00Z",
+      "electionDay": "2026-04-19T07:00:00Z",
+      "absenteeRules": "Postal ballot available only for 85+ Senior Citizens, PwD, and Service Voters. Form 12D must be submitted 5 days after notification.",
+      "requiredID": ["Voter ID (EPIC)", "Aadhar Card", "PAN Card", "Driving License", "Passport", "MNREGA Job Card"]
+    },
+    "DL": {
+      "stateCode": "DL",
+      "name": "Delhi",
+      "registrationDeadline": "2026-04-15T23:59:59Z",
+      "earlyVotingStart": "2026-05-01T08:00:00Z",
+      "electionDay": "2026-05-12T07:00:00Z",
+      "absenteeRules": "Postal ballot available only for 85+ Senior Citizens, PwD, and Service Voters. Form 12D must be submitted 5 days after notification.",
+      "requiredID": ["Voter ID (EPIC)", "Aadhar Card", "PAN Card", "Driving License", "Passport", "MNREGA Job Card"]
+    },
+    "KA": {
+      "stateCode": "KA",
+      "name": "Karnataka",
+      "registrationDeadline": "2026-03-25T23:59:59Z",
+      "earlyVotingStart": "2026-04-05T08:00:00Z",
+      "electionDay": "2026-04-15T07:00:00Z",
+      "absenteeRules": "Postal ballot available only for 85+ Senior Citizens, PwD, and Service Voters. Form 12D must be submitted 5 days after notification.",
+      "requiredID": ["Voter ID (EPIC)", "Aadhar Card", "PAN Card", "Driving License", "Passport", "MNREGA Job Card"]
+    }
+  }
+}
